@@ -18,7 +18,7 @@ If you have any doubts about the games you can access Learn Binary, Learn Logic,
 
 ![Image of Learn](http://imageshack.com/a/img922/5359/MyYr4S.png)
 
-Since it's an Android Application it is implemented in Java and it uses Gradle to build the project. 
+Since it's an Android Application it is implemented in Java, lessons view are made by HTML and css and it uses Gradle to build the project. 
 To run it you need an Android envoirenment, like a smartphone with a software version Android API 21, also known as Lollipop.
 To compile the whole project you need 
 	
