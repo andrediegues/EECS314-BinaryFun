@@ -3,7 +3,7 @@ Relatório 1 -BinaryFun
 
 BinaryFun is an Android Application game that has an educational purpose.
 
-![Image of Application](https://github.com/andrediegues/EECS314-BinaryFun/ASSO-DOCS/Images/DeepinScreenshot20160326191830.png)
+![Image of Application](https://github.com/andrediegues/EECS314-BinaryFun.git/ASSO-DOCS/Images/DeepinScreenshot20160326191830.png)
 
 
 When you open this application you have access to game modes such as Binary Adder, Binary to Decimal, Binary to Hexadecimal and Boolean Fun.
