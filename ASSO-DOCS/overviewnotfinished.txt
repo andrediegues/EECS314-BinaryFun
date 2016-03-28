@@ -1,4 +1,4 @@
-Relatório 1 -BinaryFun
+RelatÃ³rio 1 -BinaryFun
 
 BinaryFun is an Android Application game that has an educational purpose.
 
@@ -28,4 +28,3 @@ To make a commit you have to fork the original repository. When you make a chang
 To us it is a simple application and anyone can play its games. There are no major issues, just small issues that could be worked on, like a menu button on the highscore menu. 
 
 
--- metodo processo ver em casa
