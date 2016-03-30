@@ -29,7 +29,6 @@ To compile the whole project you need
 which are the libraries of gradle to build the project and an android's library.
 
 
-The project was made by four people one year ago. The repository had 4 branches and 4 contributors all non active for a year until we made our branch. 
 The description of the commits show us what functionalities have been added or what problems were fixed.
 To make a commit you have to fork the original repository. When you make a change that is usefull to the project you make a pull request and the ''master'' decides if he wants to add your changes to the project or not.
 
