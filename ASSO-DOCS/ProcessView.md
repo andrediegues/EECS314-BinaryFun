@@ -8,4 +8,4 @@ In our game the player can choose to participate in a multiplayer mode or a sing
 After choosing the desired mode the player is presented with a menu and he can choose between tutorials or to pick a game.
 If the player picks a game, it can be in single or multiplayer mode, he will go into a different section, a Play Zone (the game he chose).
 
-![Image of GameMode](http://postimg.org/image/nknf0pqch/)
+![Image of GameMode](http://s32.postimg.org/n7w0uj82t/asw.jpg)
