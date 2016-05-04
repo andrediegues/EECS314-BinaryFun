@@ -1,4 +1,4 @@
-Process View
+**Process View**
 The process view deals with the dynamic aspects of the system, like its process and how they communicate.
 The UML Diagram to represent process views include the Activity Diagram.
 An activity diagram shows the overall flow of control.
