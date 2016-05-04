@@ -1,5 +1,10 @@
 
-**Relatório 1 -BinaryFun**
+**BinaryFun**
+
+-- indice
+
+
+**Description**
 
 BinaryFun is an Android Application game that has an educational purpose.
 
@@ -34,7 +39,13 @@ To make a commit you have to fork the original repository. When you make a chang
 
 
 
-To us it is a simple application and anyone can play its games. There are no major issues, just small issues that could be worked on, like a menu button on the highscore menu. 
+To us it is a simple application and anyone can play its games. There are no major issues.
+
+**New Features**
+We decided to add some features to the game in order to make it more complete and to turn it into a client-server application.
+We added the feature of multiplayer. This feature would allow us to implement a network package, necessary in client-server applications. 
+We added a quit button in the end so the user could quit the application.
+
 
 
 Status API Training Shop Blog About
