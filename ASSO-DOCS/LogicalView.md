@@ -8,4 +8,4 @@ Within a class have atributes and methods, atributes represent a propriety of a 
 
 Instead of the original code, we decided to implement the multiplayer feature and to do that we would need a new initial menu so the user could choose to play multiplayer or singleplayer from the initial point of the application. We "created" two new classes designated **SinglePlayer** and **MultiPlayer** that would inherit all the methods that would create an event or activity from the MainActivity class.
 
-![Image of LogicalView](http://s32.postimg.org/9prcwczj9/Logical_View.png)
+![Image of LogicalView](http://s32.postimg.org/4jy9jiyud/Logical_View.png)
