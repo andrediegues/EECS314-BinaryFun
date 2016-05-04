@@ -1,4 +1,5 @@
 **Logical View**
+
 The Logical View describes the internal structure of our system, the integrated parts and their relations.
 The UML Diagrams allow us to do a model of the view of the system. We will use a Class Diagram to do so.
 
