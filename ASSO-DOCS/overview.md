@@ -2,9 +2,9 @@
 **BinaryFun**
 
 **Index**
- 
- <a Description="Description"> </a>
- 
+ [create an anchor](#description)
+ Description 
+
  New Features
  
  Software Architecture
@@ -13,7 +13,7 @@
  
   [Process View] (#Process)
 
- ** Description **
+ **# Description **
 
 BinaryFun is an Android Application game that has an educational purpose.
 
