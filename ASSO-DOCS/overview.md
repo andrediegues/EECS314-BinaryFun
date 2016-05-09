@@ -3,13 +3,17 @@
 
 **Index**
  
- Description
+ [Description](#**Description**)
+ 
  New Features
+ 
  Software Architecture
+ 
   .Logical View
+ 
   .Process View
 
-**Description**
+# **Description**
 
 BinaryFun is an Android Application game that has an educational purpose.
 
@@ -53,6 +57,7 @@ We added the feature of multiplayer. This feature would allow us to implement a 
 We added a quit button in the end so the user could quit the application.
 
 **Process View**
+
 The process view deals with the dynamic aspects of the system, like its processes and how they communicate. The UML Diagram to represent process views include the Activity Diagram. An activity diagram shows the overall flow of control.
 
 In our game the player can choose to participate in a multiplayer mode or a single player mode. After choosing the desired mode the player is presented with a menu and he can choose between tutorials or to pick a game. If the player picks a game, it can be in single or multiplayer mode, he will go into a different section, a Play Zone (the game he chose). After the game is played, a highscore table will appear and the player will have to add he's name.
