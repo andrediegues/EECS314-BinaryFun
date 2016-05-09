@@ -9,4 +9,4 @@ After choosing the desired mode the player is presented with a menu and he can c
 If the player picks a game, it can be in single or multiplayer mode, he will go into a different section, a Play Zone (the game he chose).
 After the game is played, a highscore table will appear and the player will have to add he's name.
 
-![Image of GameMode](http://s32.postimg.org/avdiito11/Untitled.png)
+![Image of GameMode](http://s32.postimg.org/67ggvaced/Untitled.png)
