@@ -62,7 +62,7 @@ The process view deals with the dynamic aspects of the system, like its processe
 
 In our game the player can choose to participate in a multiplayer mode or a single player mode. After choosing the desired mode the player is presented with a menu and he can choose between tutorials or to pick a game. If the player picks a game, it can be in single or multiplayer mode, he will go into a different section, a Play Zone (the game he chose). After the game is played, a highscore table will appear and the player will have to add he's name.
 
-![Image of GameMode](http://s32.postimg.org/avdiito11/Untitled.png)
+![Image of GameMode](http://s32.postimg.org/67ggvaced/Untitled.png)
 
 
 
