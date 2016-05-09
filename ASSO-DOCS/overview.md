@@ -3,7 +3,8 @@
 
 **Index**
  [Description](#anchor)
- Description 
+ 
+ 
 
  New Features
  
@@ -13,7 +14,7 @@
  
   [Process View] (#Process)
 
- **# Description **
+#anchor ** Description **
 
 BinaryFun is an Android Application game that has an educational purpose.
 
