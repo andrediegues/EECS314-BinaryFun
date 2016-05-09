@@ -2,7 +2,7 @@
 **BinaryFun**
 
 **Index**
- [create an anchor](#description)
+ [Description](#anchor)
  Description 
 
  New Features
