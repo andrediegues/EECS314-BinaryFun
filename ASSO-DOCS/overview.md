@@ -11,7 +11,7 @@
  
   .Logical View
  
-  [Process View] (#**Process)
+  [Process View] (#Process)
 
 # **Description**
 
