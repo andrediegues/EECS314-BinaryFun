@@ -11,7 +11,7 @@
  
   .Logical View
  
-  .Process View
+  [Process View] (#**Process View**)
 
 # **Description**
 
@@ -56,7 +56,7 @@ We decided to add some features to the game in order to make it more complete an
 We added the feature of multiplayer. This feature would allow us to implement a network package, necessary in client-server applications. 
 We added a quit button in the end so the user could quit the application.
 
-**Process View**
+# **Process View**
 
 The process view deals with the dynamic aspects of the system, like its processes and how they communicate. The UML Diagram to represent process views include the Activity Diagram. An activity diagram shows the overall flow of control.
 
