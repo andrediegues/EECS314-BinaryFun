@@ -13,7 +13,7 @@
  
   [Process View] (#Process)
 
-#description ** Description **
+# ** Description **
 
 BinaryFun is an Android Application game that has an educational purpose.
 
