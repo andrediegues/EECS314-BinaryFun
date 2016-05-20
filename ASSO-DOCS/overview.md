@@ -7,7 +7,7 @@
 
 [New Features](#new-features)
  
-[Software Architecture](#software-architecture)
+Software Architecture:
  
   [Logical View](#logical-view)
  
