@@ -5,13 +5,19 @@
 
 [Description](#description)
 
-  New Features
+[New Features](#new-features)
  
- Software Architecture
+[Software Architecture](#software-architecture)
  
-  Logical View
+ 	 [Logical View](#logical-view)
  
-Process View
+	 [Process View](#process-view)
+	 
+	 [Implementation View](#implementation-view)
+	 
+	 [Deployment View](#deployment-view)
+	 
+	 [Use Case View](#use-case-view)
 
 ## Description
 BinaryFun is an Android Application game that has an educational purpose.
@@ -49,13 +55,13 @@ To make a commit you have to fork the original repository. When you make a chang
 
 To us it is a simple application and anyone can play its games. There are no major issues.
 
-**New Features**
+## New Features
 
 We decided to add some features to the game in order to make it more complete and to turn it into a client-server application.
 We added the feature of multiplayer. This feature would allow us to implement a network package, necessary in client-server applications. 
 We added a quit button in the end so the user could quit the application.
 
- **Process View**
+ ## Process View
 
 The process view deals with the dynamic aspects of the system, like its processes and how they communicate. The UML Diagram to represent process views include the Activity Diagram. An activity diagram shows the overall flow of control.
 
@@ -63,7 +69,7 @@ In our game the player can choose to participate in a multiplayer mode or a sing
 
 ![Image of GameMode](http://s32.postimg.org/67ggvaced/Untitled.png)
 
-**Implementation View**
+## Implementation View
 
 Implementation View can be represented by a Component Diagram and describes system components. It shows us how the software interacts with the user.
 
@@ -71,7 +77,7 @@ In the game application the Main loads all the Libraries to launch the game. Onc
 
 ![Image of Implementation View] (http://s32.postimg.org/nrk58ixvp/implementation_1.jpg)
 
-**Deployment View**
+## Deployment View
 
 The Deployment View models the physical aspects of the application. We have artifacts and nodes, each representing the software part and the hardware part respectively.
 
@@ -83,7 +89,7 @@ To store data about highscores a Database is used connected to the Server.
 
 ![Image of Deployment View] (http://s32.postimg.org/jvd4k6y85/deployment.jpg)
 
-**Use Case View**
+## Use Case View
 
 The Use Case View allow us to identify the actions that the user can make throughout the application.
 
