@@ -1,10 +1,13 @@
 
-**BinaryFun**
+<h1>BinaryFun</h1>
 
 **Index**
+<ul>
+      <li><a href=#Description>Description</a></li>
+      
+      
 
- [Description](Description)
- 
+
   New Features
  
  Software Architecture
@@ -13,7 +16,7 @@
  
   [Process View] (#Process)
 #
-**Description**
+         <h2 id="Description">Description</h2>
 
 BinaryFun is an Android Application game that has an educational purpose.
 
@@ -56,7 +59,7 @@ We decided to add some features to the game in order to make it more complete an
 We added the feature of multiplayer. This feature would allow us to implement a network package, necessary in client-server applications. 
 We added a quit button in the end so the user could quit the application.
 
-# **Process View**
+ **Process View**
 
 The process view deals with the dynamic aspects of the system, like its processes and how they communicate. The UML Diagram to represent process views include the Activity Diagram. An activity diagram shows the overall flow of control.
 
@@ -64,8 +67,33 @@ In our game the player can choose to participate in a multiplayer mode or a sing
 
 ![Image of GameMode](http://s32.postimg.org/67ggvaced/Untitled.png)
 
+**Implementation View**
 
+Implementation View can be represented by a Component Diagram and describes system components. It shows us how the software interacts with the user.
 
+In the game application the Main loads all the Libraries to launch the game. Once the game is running the player has to choose a PlayerMode (SinglePlayer or MultiPlayer). Afterwards has to pick a game and in the end of the game the player can submit his score to the HighScore table which is connected locally if the player chose SinglePlayer otherwise it is connected to a server.
+
+![Image of Implementation View] (http://s32.postimg.org/nrk58ixvp/implementation_1.jpg)
+
+**Deployment View**
+
+The Deployment View models the physical aspects of the application. We have artifacts and nodes, each representing the software part and the hardware part respectively.
+
+In SinglePlayer Mode we have the Client node and the Database node. 
+
+In MultiPlayer Mode exists two Players nodes, who are instances of the node Client that communicates with the Server node. Some information flows directly between the players. 
+
+To store data about highscores a Database is used connected to the Server.
+
+![Image of Deployment View] (http://s32.postimg.org/jvd4k6y85/deployment.jpg)
+
+**Use Case View**
+
+The Use Case View allow us to identify the actions that the user can make throughout the application.
+
+In BinaryFun the user can perform several actions like choose a PlayerMode, view some tutorials, choose a GameMode and enter his score in the end of the game. 
+
+![Image of Use Case] (http://s32.postimg.org/d2wkmi4at/usecase.jpg)
 
 Status API Training Shop Blog About
 © 2016 GitHub, Inc. Terms Privacy Security Contact Help
