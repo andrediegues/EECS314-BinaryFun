@@ -2,14 +2,17 @@
 <h1>BinaryFun</h1>
 
 **Index**
-[Description](#Description)
+
+[Description](#description)
+
   New Features
  
  Software Architecture
  
-  .Logical View
+  Logical View
  
 Process View
+
 ## Description
 BinaryFun is an Android Application game that has an educational purpose.
 
