@@ -48,7 +48,7 @@ To compile the whole project you need
 which are the libraries of gradle to build the project and an android's library.
 
 
-The description of the commits show us what functionalities have been added or what problems were fixed.
+In GitHub, the description of the commits show us what functionalities have been added or what problems were fixed.
 To make a commit you have to fork the original repository. When you make a change that is usefull to the project you make a pull request and the ''master'' decides if he wants to add your changes to the project or not.
 
 
@@ -67,7 +67,7 @@ The Logical View describes the internal structure of our system, the integrated 
 The UML Diagrams allow us to do a model of the view of the system. We will use a Class Diagram to do so.
 
 A class represents a group of objects with similar behaviour and caractheristics. 
-Within a class have atributes and methods, atributes represent a propriety of a class defined by abstract terms and methods can modify the values of the atributes and change its status.
+Within a class we have atributes and methods. Atributes represent a propriety of a class defined by abstract terms, Methods can modify the values of the atributes and change its status.
 
 Instead of the original code, we decided to implement the multiplayer feature and to do that we would need a new initial menu so the user could choose to play multiplayer or singleplayer from the initial point of the application. We "created" two new classes designated **SinglePlayer** and **MultiPlayer** that would inherit all the methods that would create an event or activity from the **MainActivity** class.
 
@@ -89,7 +89,7 @@ In our game the player can choose to participate in a multiplayer mode or a sing
 
 Implementation View can be represented by a Component Diagram and describes system components. It shows us how the software interacts with the user.
 
-In the game application the Main loads all the Libraries to launch the game. Once the game is running the player has to choose a PlayerMode (SinglePlayer or MultiPlayer). Afterwards has to pick a game and in the end of the game the player can submit his score to the HighScore table which is connected locally if the player chose SinglePlayer otherwise it is connected to a server.
+In the game application the Main loads all the Libraries to launch the game. Once the game is running the player has to choose a PlayerMode (SinglePlayer or MultiPlayer). Afterwards he has to pick a game and in the end of the game the player can submit his score to the HighScore table which is connected locally if the player chose SinglePlayer otherwise it is connected to a server.
 
 ![Image of Implementation View] (http://s32.postimg.org/nrk58ixvp/implementation_1.jpg)
 
