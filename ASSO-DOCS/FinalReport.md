@@ -155,7 +155,11 @@ In BinaryFun the user can perform several actions like choose a PlayerMode, view
 
 **Conclusions**
 
-
+When we started analyzing this application we discovered that it wasn't very well defined and that there was a lack of architecture in the project, but with the features we added the application now has a client-server architecture. This type of architecture allows a multiplayer mode and the highscores to be stored in a server in an online database. 
+By adding the multiplayer feature we didn't have problems with dependencies of the system. 
+It has a simple architecture that allows the application to grow, which means, it's easy for a developer to change the application easily and to add more features.
+ 
+ 
 
 **Contributions**
 
