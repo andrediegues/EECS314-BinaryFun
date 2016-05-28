@@ -116,6 +116,7 @@ In BinaryFun the user can perform several actions like choose a PlayerMode, view
 **Contributions**
 
 André Diegues (up201206858) - 50%
+
 Inês Pereira da Cruz (up201304360) - 50%
 
 Status API Training Shop Blog About
