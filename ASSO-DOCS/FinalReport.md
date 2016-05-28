@@ -27,7 +27,30 @@ BinaryFun is an Android Application game that has an educational purpose.
 When you open this application you have access to game modes such as Binary Adder, Binary to Decimal, Binary to Hexadecimal and Boolean Fun.
 The games consist in timed exercises in which you a have to make calculus, depending on the game mode you choose. 
 
+**Binary Adder**
+
+Binary Adder is a simple adding game where you have 5 rounds and a timer. 
+In each round you are given two binary numbers to sum and once you insert the correct result you immediatly pass to the next round.
+The least time you take to pass the 5 rounds the bigger score you achieve and if you get stuck on a round you can always start a new game!
+In Multiplayer mode the player which has a bigger score wins!
+
 ![Image of Binary Adder](http://imageshack.com/a/img921/6862/9FkPuk.png)
+
+**Binary To Decimal and Binary To Hex**
+
+Binary To Decimal and Binary To Hex are conversion games where it's given a target number in decimal base and you need to insert the correct conversion to binary or hexadecimal respectively. 
+Similarly to BinaryAdder you have 5 rounds and a timer. The score is obtained upon completion of the 5 rounds and with the time spent to do so.
+In Multiplayer mode the player which finishes the 5 rounds first wins!
+
+![Image of BtD & BtH](http://s33.postimg.org/exyegt66n/Deepin_Screenshot20160528190542.png)
+
+**Boolean Fun**
+
+Boolean Fun is a game where it's given a boolean tree and, unlike the other games described so far, it doesn't have 5 rounds nor only one correct solution to the challenge given to you. 
+There are different solutions to the same boolean tree so your task is to finish as fast as you can and the best way to do so is to seek for the simplest solution. Whenever you are ready just press the 'Done' button and check your solution.
+In Multiplayer mode the player which finishes in the smallest amount of time wins!
+
+![Image of BooleanFun](http://s33.postimg.org/nkyqscdqn/Deepin_Screenshot20160327134109.png)
 
 There is a score and a table of high scores.
 
