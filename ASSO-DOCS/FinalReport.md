@@ -24,8 +24,9 @@ BinaryFun is an Android Application game that has an educational purpose.
 
 ![Image of Application](http://imageshack.com/a/img922/580/9fKEHJ.png)
 
-When you open this application you have access to game modes such as Binary Adder, Binary to Decimal, Binary to Hexadecimal and Boolean Fun.
+When you opened the original application you would have access to game modes such as Binary Adder, Binary to Decimal, Binary to Hexadecimal and Boolean Fun. With our new features when you access the application you have to choose the Player Mode first (Single Player or Multi Player) and then you will go to a menu where you can choose between tutorials or game modes.
 The games consist in timed exercises in which you a have to make calculus, depending on the game mode you choose. 
+
 
 **Binary Adder**
 
@@ -128,13 +129,17 @@ To store data about highscores a Database is used connected to the Server.
 
 ![Image of Deployment View] (http://s32.postimg.org/jvd4k6y85/deployment.jpg)
 
-## Use Case View
+## Use Case
 
-The Use Case View allow us to identify the actions that the user can make throughout the application.
+The Use Case allow us to identify the actions that the user can make throughout the application.
 
 In BinaryFun the user can perform several actions like choose a PlayerMode, view some tutorials, choose a GameMode and enter his score in the end of the game. 
 
 ![Image of Use Case] (http://s33.postimg.org/vsx0jbob3/usecase_1.jpg)
+
+**Conclusions**
+
+
 
 **Contributions**
 
