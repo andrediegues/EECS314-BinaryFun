@@ -5,7 +5,10 @@
 
 [Description](#description)
 
-[New Features](#new-features)
+[New Features](#new-features) 
+
+[Requirements](#requirements)
+
  
 Software Architecture:
  
@@ -19,7 +22,6 @@ Software Architecture:
 	 
  [Use Case View](#use-case-view)
  
- [Requirements](#requirements)
 
 ## Description
 BinaryFun is an Android Application game that has an educational purpose.
