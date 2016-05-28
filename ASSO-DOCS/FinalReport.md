@@ -113,5 +113,9 @@ In BinaryFun the user can perform several actions like choose a PlayerMode, view
 
 ![Image of Use Case] (http://s33.postimg.org/vsx0jbob3/usecase_1.jpg)
 
+**Contributions**
+André Diegues (up201206858) - 50%
+Inês Pereira da Cruz (up201304360) - 50%
+
 Status API Training Shop Blog About
 © 2016 GitHub, Inc. Terms Privacy Security Contact Help
