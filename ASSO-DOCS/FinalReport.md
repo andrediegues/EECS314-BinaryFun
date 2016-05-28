@@ -72,15 +72,15 @@ If you have any doubts about the games you can access Learn Binary, Learn Logic,
 
 ## Requirements
 
-Since it's an Android Application it is implemented in Java, lessons view are made by HTML and css and it uses Gradle to build the project. 
-To run it you need an Android envoirenment, like a smartphone with a software version Android API 21, also known as Lollipop.
+Since it's an Android Application it is implemented in Java, tutorials view are made by HTML and css and it uses Gradle to build the project. 
+To run it you need an Android environment, like a smartphone with a software version Android API 21, also known as Lollipop.
 To compile the whole project you need 
 	
 	internal_impl-22.0.0.jar
 
 	classpath 'com.android.tools.build:gradle:1.1.0'
 	
-which are the libraries of gradle to build the project and an android's library.
+which are the libraries of gradle to build the project and an Android's library.
 
 
 **Git and BinaryFun**
