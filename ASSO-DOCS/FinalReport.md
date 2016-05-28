@@ -18,6 +18,8 @@ Software Architecture:
  [Deployment View](#deployment-view)
 	 
  [Use Case View](#use-case-view)
+ 
+ [Requirements](#requirements)
 
 ## Description
 BinaryFun is an Android Application game that has an educational purpose.
@@ -37,6 +39,7 @@ In Multiplayer mode the player which has a bigger score wins!
 
 ![Image of Binary Adder](http://imageshack.com/a/img921/6862/9FkPuk.png)
 
+
 **Binary To Decimal and Binary To Hex**
 
 Binary To Decimal and Binary To Hex are conversion games where it's given a target number in decimal base and you need to insert the correct conversion to binary or hexadecimal respectively. 
@@ -44,6 +47,7 @@ Similarly to BinaryAdder you have 5 rounds and a timer. The score is obtained up
 In Multiplayer mode the player which finishes the 5 rounds first wins!
 
 ![Image of BtD & BtH](http://s33.postimg.org/exyegt66n/Deepin_Screenshot20160528190542.png)
+
 
 **Boolean Fun**
 
@@ -53,13 +57,18 @@ In Multiplayer mode the player which finishes in the smallest amount of time win
 
 ![Image of BooleanFun](http://s33.postimg.org/nkyqscdqn/Deepin_Screenshot20160327134109.png)
 
+
 There is a score and a table of high scores.
 
 ![Image of Highscore Table](http://imageshack.com/a/img922/6553/I1QOQ2.png)
 
+
 If you have any doubts about the games you can access Learn Binary, Learn Logic, Learn Arithmetic and Learn Representations for more explanations and help.
 
 ![Image of Learn](http://imageshack.com/a/img922/5359/MyYr4S.png)
+
+
+## Requirements
 
 Since it's an Android Application it is implemented in Java, lessons view are made by HTML and css and it uses Gradle to build the project. 
 To run it you need an Android envoirenment, like a smartphone with a software version Android API 21, also known as Lollipop.
@@ -72,18 +81,18 @@ To compile the whole project you need
 which are the libraries of gradle to build the project and an android's library.
 
 
+**Git and BinaryFun**
+
 In GitHub, the description of the commits show us what functionalities have been added or what problems were fixed.
 To make a commit you have to fork the original repository. When you make a change that is usefull to the project you make a pull request and the ''master'' decides if he wants to add your changes to the project or not.
 
-
-
-To us it is a simple application and anyone can play its games. There are no major issues.
 
 ## New Features
 
 We decided to add some features to the game in order to make it more complete and to turn it into a client-server application.
 We added the feature of multiplayer. This feature would allow us to implement a network package, necessary in client-server applications. 
 We added a quit button in the end so the user could quit the application.
+
 
 ## Logical View
 
@@ -101,6 +110,7 @@ The classes **BooleanFun**, **BinaryToDecimal**, **BinaryAdder** and **BinaryToH
 
 ![Image of LogicalView](http://s32.postimg.org/4jy9jiyud/Logical_View.png)
 
+
 ## Process View
 
 The process view deals with the dynamic aspects of the system, like its processes and how they communicate. The UML Diagram to represent process views include the Activity Diagram. An activity diagram shows the overall flow of control.
@@ -109,6 +119,7 @@ In our game the player can choose to participate in a multiplayer mode or a sing
 
 ![Image of GameMode](http://s32.postimg.org/67ggvaced/Untitled.png)
 
+
 ## Implementation View
 
 Implementation View can be represented by a Component Diagram and describes system components. It shows us how the software interacts with the user.
@@ -116,6 +127,7 @@ Implementation View can be represented by a Component Diagram and describes syst
 In the game application the Main loads all the Libraries to launch the game. Once the game is running the player has to choose a PlayerMode (SinglePlayer or MultiPlayer). Afterwards he has to pick a game and in the end of the game the player can submit his score to the HighScore table which is connected locally if the player chose SinglePlayer otherwise it is connected to a server.
 
 ![Image of Implementation View] (http://s33.postimg.org/epgd7iehb/implementation_2.jpg)
+
 
 ## Deployment View
 
@@ -129,6 +141,7 @@ To store data about highscores a Database is used connected to the Server.
 
 ![Image of Deployment View] (http://s32.postimg.org/jvd4k6y85/deployment.jpg)
 
+
 ## Use Case
 
 The Use Case allow us to identify the actions that the user can make throughout the application.
@@ -136,6 +149,7 @@ The Use Case allow us to identify the actions that the user can make throughout 
 In BinaryFun the user can perform several actions like choose a PlayerMode, view some tutorials, choose a GameMode and enter his score in the end of the game. 
 
 ![Image of Use Case] (http://s33.postimg.org/vsx0jbob3/usecase_1.jpg)
+
 
 **Conclusions**
 
